@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SagarPatil18/my-app.git/static/css/main.0147c39f.css",
-    "main.js": "/SagarPatil18/my-app.git/static/js/main.f9ef3a06.js",
-    "static/js/453.ed3810f9.chunk.js": "/SagarPatil18/my-app.git/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/SagarPatil18/my-app.git/index.html",
-    "main.0147c39f.css.map": "/SagarPatil18/my-app.git/static/css/main.0147c39f.css.map",
-    "main.f9ef3a06.js.map": "/SagarPatil18/my-app.git/static/js/main.f9ef3a06.js.map",
-    "453.ed3810f9.chunk.js.map": "/SagarPatil18/my-app.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/my-app/static/css/main.0147c39f.css",
+    "main.js": "/my-app/static/js/main.264529ff.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.0147c39f.css.map": "/my-app/static/css/main.0147c39f.css.map",
+    "main.264529ff.js.map": "/my-app/static/js/main.264529ff.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0147c39f.css",
-    "static/js/main.f9ef3a06.js"
+    "static/js/main.264529ff.js"
   ]
 }
